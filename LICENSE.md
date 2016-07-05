@@ -1,4 +1,5 @@
-Copyright (c) 2016 Ermiya Eskandary & Théophile Cailliau and other [contributors](https://github.com/ErmiyaEskandary/slither.io-bot/contributors)
+Copyright (c) 2016 Ermiya Eskandary, Théophile Cailliau, 
+Alexey Korepanov and other [contributors](https://github.com/ErmiyaEskandary/slither.io-bot/contributors)
 
 Mozilla Public License Version 2.0
 ==================================

@@ -1,3 +1,8 @@
+# UPDATE:
+
+This bot has been incorporated with numerous improvements into 
+https://github.com/j-c-m/Slither.io-bot
+
 # Slither.io bot doing the Circle Method
 
 This is a modified version of Slither.io bot by
